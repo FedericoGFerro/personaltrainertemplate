@@ -1,0 +1,105 @@
+
+body {
+    background-image: url("img/baas-background2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+}
+
+.cuerpo {
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 2000px;
+    background-color: #dadada;
+}
+
+.logo {
+    align-content: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.presentacion {
+    float: left;
+    background-color: white;
+    width: 45%;
+    height: 18%;
+    padding-top: 2%;
+    padding-right: 5%;
+   
+    font-size: 50px;
+    font-family: Agency FB;
+    line-height: 50px;
+    text-align: right;
+    text-shadow: 3px 1px 1px #dadada;
+}
+
+.personal-trainer {
+    font-size: 35px;
+}
+
+.redes {
+    float: top right;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Agency FB;
+    line-height: 50px;
+    text-align: right;
+    text-shadow: none;
+    
+}
+
+.presentacion-foto {
+    float: right;
+    background-color: white;
+    width: 45%;
+    height: 18%;
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+.sobre-mi {
+    
+    margin-top: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: #dadada;
+    text-align: justify;
+    text-justify: inter-word;       
+}
+
+.sobre-mi-titulo {
+    font-size: 50px;
+    font-family: Agency FB;
+    line-height: 50px;
+    text-align: left;
+    text-shadow: 3px 1px 1px #dadada;
+}
+
+.donde-entreno {
+    
+    margin-top: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    align-items: start;       
+}
+
+.separador1 {
+    width: 350px;
+    height: 2px;
+    background-color: #4ca493;
+}
+
+.separador2 {
+    margin-bottom: 20px;
+    width: 350px;
+    height: 2px;
+    background-color: #4ca493;
+}
